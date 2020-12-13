@@ -35,7 +35,9 @@ See [the complete list of our contributors](https://https://github.com/CyberTKR/
 />
 
 <html>
-
+</br>
+ <br/><b>✦Thx To; CyberTK ➥<a href="https://github.com/CyberTKR" title="@CyberTK"> @Zarifoğlu </a></b>
+</br>
 </br>
  <br/><b>✦Thx To; Zarifoğlu ➥<a href="https://github.com/Zarifbey" title="@Zarifoğlu"> @Zarifoğlu </a></b>
 </br>
